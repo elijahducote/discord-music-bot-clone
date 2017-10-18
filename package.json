@@ -4,6 +4,7 @@
   "description": "Simple music bot for Discord servers.",
   "main": "musicbot.js",
   "scripts": {
+    "start": "node musicbot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
